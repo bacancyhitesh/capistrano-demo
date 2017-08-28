@@ -8,7 +8,7 @@ server "localhost", user: "hitesh", roles: %w{app db web}, my_property: :my_valu
 # server "example.com", user: "deploy", roles: %w{app web}, other_property: :other_value
 # server "db.example.com", user: "deploy", roles: %w{db}
 
-set :deploy_to, "/home/hitesh/Desktop/mr-uzaif"
+set :deploy_to, "/home/hitesh/Desktop/mr-uzaif-nilger"
 
 # role-based syntax
 # ==================
